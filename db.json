@@ -1,1 +1,80 @@
-{}
+{
+  "tasks": [
+    {
+      "title": "wer",
+      "description": "ffgf",
+      "dueDate": "2025-04-16",
+      "priority": "high",
+      "status": true,
+      "id": 9
+    },
+    {
+      "title": "Ngan ok ",
+      "description": "9999",
+      "dueDate": "2025-04-30",
+      "priority": "low",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "fsdgdg",
+      "description": "sdgdgsggs",
+      "dueDate": "2025-04-30",
+      "priority": "medium",
+      "status": true,
+      "id": 11
+    },
+    {
+      "title": "chu duc tu",
+      "description": "011",
+      "dueDate": "2025-04-21",
+      "priority": "high",
+      "status": true,
+      "id": 12
+    },
+    {
+      "title": "abc",
+      "description": "abc",
+      "dueDate": "2025-04-22",
+      "priority": "low",
+      "status": false,
+      "id": 13
+    },
+    {
+      "title": "ttet",
+      "description": "tete",
+      "dueDate": "2025-04-23",
+      "priority": "high",
+      "status": false,
+      "id": 14
+    },
+    {
+      "title": "1",
+      "description": "1",
+      "dueDate": "2025-04-22",
+      "priority": "high",
+      "status": true,
+      "id": 15
+    },
+    {
+      "title": "sffcvbvcbvbcbvvvvvvvvvvv",
+      "description": "sfddsfdsfgvcbvcvb",
+      "dueDate": "2025-04-30",
+      "priority": "high",
+      "status": true,
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "email": "ductu205@gmail.com",
+      "password": "$2a$10$nEvx7uzf7NybuQCE5zqBpOJgm6mrBpug6mPGGU5mGM4TTOdYvgCBy",
+      "id": 1
+    },
+    {
+      "email": "chu@gmail.com",
+      "password": "$2a$10$gL8MDRuuHbE6xkDm/0HwTuG.auhCdbMK9pomFpFxM.erSzCF8kWXu",
+      "id": 2
+    }
+  ]
+}
